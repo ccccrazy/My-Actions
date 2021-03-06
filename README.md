@@ -39,7 +39,7 @@
 | `BILI_COOKIE`           |   哔哩哔哩COOKIE`(非必填)`   |哔哩哔哩COOKIE,如果账号密码无法登陆就用COOKIE,等一段时间再用账号密码即可.|
 | `BILI_NUM`              |   哔哩哔哩每日投币数量   |每日投币数量`可不填`默认0 不投币|
 | `BILI_TYPE`             |   哔哩哔哩每日投币方式   |投币方式`可不填`默认1,只给关注的人投币 0 则随机投币|
-| `BIKA_USER`             |   哔咔漫画用户名   |哔咔漫画用户名|
+| `BIKA_USER`             |   哔咔漫画用户名   |哔咔漫画用户名| 
 | `BIKA_PASS`             |   哔咔漫画密码   |哔咔漫画密码|
 | `WPS_KEY`               |   WPS_SID   |WPS `COOKIE`中的wps_sid,只要不注销,10年过期|
 | `V_REF_URL`             |   腾讯视频Request URL |电脑端搜索auth_refresh复制整段Request url[图片教程](https://cdn.jsdelivr.net/gh/BlueskyClouds/BlueskyClouds.github.io/2020/11/1/img/v_1.jpg)|
